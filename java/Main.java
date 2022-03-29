@@ -5,6 +5,7 @@ import java.util.Arrays;
 class Main {
 
     //Kevin stinkt
+    //abc
     public static void main(String[] args) {
         double[] v = new double[] { 20, 10 };
         double[] s = new double[] { 0, 0 };
